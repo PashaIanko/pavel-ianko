@@ -3,55 +3,57 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
+    
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Pavel Ianko
+    tagline: ML Engineer / Data Scientist
+    avatar: profile.jpg  # place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    email: yanpavevg@gmail.com
+    phone: +39 351 739 80 85
+    timezone: Italy
+    # citizenship: Italy
+    website: pashaianko.github.io #do not add http://
+    linkedin: pavelianko
+    # xing: alandoe
+    github: PashaIanko
+    telegram: pavelianko # add your nickname without '@' sign
+    # gitlab:
+    # bitbucket:
+    # twitter: '@webjeda'
+    stack-overflow: 17741808/pavel  # Number/Username, e.g. 123456/alandoe
+    # codewars:
+    # goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: https://disk.yandex.ru/i/HgdMwg07KC5QXw  # http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Russian
           level: Native
 
-        - idiom: French
-          level: Professional
+        - idiom: 
+          level: English (C1, IELTS 8.0)
+          link: https://disk.yandex.ru/i/HgdMwg07KC5QXw
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: Italian
+          level: B2
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Climbingg
           link:
 
         - item: Snowboarding
           link:
 
         - item: Cooking
-          link:
+          link: https://github.com/jekyll/jekyll/issues/8523
 
 career-profile:
     title: Career Profile
@@ -65,9 +67,9 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: BSc in Automatization in Research
+        university: Novosibirsk State University
+        time: 2017 - 2021
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -76,7 +78,7 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
+      - degree: MSc in Data Science
         university: Bristol University
         time: 2007 - 2011
         details: |

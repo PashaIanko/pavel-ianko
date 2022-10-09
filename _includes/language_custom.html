@@ -1,0 +1,32 @@
+{% assign languages = site.data.data.sidebar.languages %}
+{% if languages %}
+<div class="languages-container container-block">
+
+  <h2 class="container-block-title">
+    {{ languages.title }}
+  </h2>
+
+  <ul class="list-unstyled interests-list">
+    {% for language in languages.info %}
+
+      {% if language.link %}
+        <li>
+          <span class="lang-desc">
+            <li><a href="{{ language.link }}">{{ language.level }}</a></li>
+          </span>
+        </li>
+  
+      {% else %}
+        <li>
+          {{ language.idiom }}
+          <span class="lang-desc">({{ language.level }})</span>
+        </li>
+      {% endif %}
+      
+    {% endfor %}
+  </ul>
+
+</div><!--//interests-->
+{% endif %}
+
+
