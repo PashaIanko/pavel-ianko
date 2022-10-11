@@ -57,9 +57,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      My Bachelor's degree was dedicated to Physics and automation in research. Currently,
-      I pursue a Master's degree in Data Science at the University of Padua in Italy
-      (top 200 world universities)
+      - Disciplined and hard-working Machine Learning specialist, with Physics background and Master's degree 
+      in a top 200 world universities.
+      - 4 years of experience in performing, summarizing and publically presenting experimental research
+      - Developed a few-shot learning object detection system to automate cooking process in restaurants
+      - In search of an ML engineer / Data Scientist position to apply my knowledge of algorithms, coding, and building models
 
 education:
     title: Education
@@ -69,20 +71,19 @@ education:
         time: 2021 - 2023
         details: |
           - GPA: 29.4 (30 is max)
-          - Follow a track of Machine Learning for Intelligent systems,
+          - Track of Machine Learning for Intelligent systems,
           - Key courses:
             - Machine and deep learning
             - Statistical learning
             - Vision and cognitive services
             - Optimization for Data Science
 
-
       - degree: BSc in Automatization in Research
         university: Novosibirsk State University
         time: 2017 - 2021
         details: |
           - GPA: 4.92 (5.0 is max)
-          - Entered in the top 7% students rank
+          - Top 7% in the students ranking
           - Key courses:
             - Computational physics
             - Data & signal processing
@@ -98,22 +99,22 @@ experiences:
         time: October 2022 - Present
         company: Unox S.p.A., Italy
         details: |
-          I work as a machine learning engineer, to develop object detection system.
           Key responsibilities:
             - Dataset preparation
             - Selection of neural network architectures
-            - Training, evaluating and deploying the models
+            - Preparing pipelines for data processing and model training
+            - Evaluating and deploying the models
       - role: Research assistant
-        time: 2017 - 2021
+        time: September 2017 - June 2021
         company: Kutateladze Institute of Thermophysics
         details: |
           I worked as a research associate in the laboratory of microfluidics,
           in the Siberian Branch of Russian Academy of Sciences. My responsibilities
-          embraced:
-            - Writing research papers
+          included:
             - Implementing software for the dynamic flowrate control
-            - Experimental work
-            - Presenting results at conferences
+            - Performing experimental research
+            - Summarizing experiment results in research papers
+            - Publically presenting reports at conferences
 
 internships:
     title: Internship experience
@@ -122,18 +123,23 @@ internships:
         time: July 2022 - September 2022
         company: Unox S.p.A., Italy
         details: |
-          I work as a machine learning engineer, to develop object detection system.
+          The internship project was dedicated to developing an
+          object detection system. The achieved performance metrics was 97%, reached on 
+          the dataset with only 10 images per class.
+          
           Key responsibilities:
             - Dataset preparation
             - Selection of neural network architectures
             - Training, evaluating and deploying the models
+      
       - role: Software developer
         time: June 2019 - August 2019
-        company: National Tsing Hua University, Taiwan
+        company: National Tsing Hua University, College of Engineering, Taiwan
         details: |
-          College of engineering, laboratory of Flexible Printronics 
-          Programmed a software application for image processing and  
-          assessing pattern irregularities for flexible printronics
+          The internship project was dedicated to developing a 
+          GUI software for image processing and assessing pattern irregularities
+          in flexible printronics. The results were published in the Journal of
+          Micromechanics and Microengineering
 
 hackathons:
     title: Hackathons experience
@@ -142,12 +148,14 @@ hackathons:
         time: May 28, 2022
         company: Unox S.p.A., Italy
         details: |
-          Scored 2nd out of 4 participated teams. 24-hours team hackathon with 
-          several tasks:
+          Scored 2nd out of 4 participated teams. 24-hours team hackathon,
+          devoted to:
           - Building predictive models for the cooking state of the food
             and internal temperature
           - Designing the structure of the database, for collecting data from
             customers
+          - Brainstorming on new sensors, that can capture important information
+            about the food during cooking
 
       - role: Business game 2022
         time: March 22, 2022
@@ -271,7 +279,7 @@ conference_papers:
     intro: |
     papers:
       - authors: P.E. Ianko, A.Yu. Kravtsova.
-        title: Experimental  Investigation  of  the  fluid  flow  structure  in  T-type micromixers  for  varied  inlet  flowrates  ratio. 
+        title: Experimental  Investigation  of  the  fluid  flow  structure  in  T-type micromixers  for  varied  inlet  flowrates  ratio
         conference: International conference on the methods of aerophysical research, November 1-7, 2020
         link: https://drive.google.com/file/d/18Cz86VqVsP18AwB5UGyeeQU9JIyAZBEh/view?usp=sharing
       
