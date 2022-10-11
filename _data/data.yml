@@ -71,7 +71,7 @@ education:
         time: 2021 - 2023
         details: |
           - GPA: 29.4 (30 is max)
-          - Track of Machine Learning for Intelligent systems,
+          - Track of Machine Learning for Intelligent systems
           - Key courses:
             - Machine and deep learning
             - Statistical learning
@@ -147,6 +147,7 @@ hackathons:
       - role: Unox hackathon
         time: May 28, 2022
         company: Unox S.p.A., Italy
+        link: https://www.linkedin.com/posts/pavelianko_unox-activity-6951838256992808960-5tRT?utm_source=share&utm_medium=member_desktop
         details: |
           Scored 2nd out of 4 participated teams. 24-hours team hackathon,
           devoted to:
@@ -168,6 +169,7 @@ hackathons:
       - role: Skoltech university hackathon
         time: January 15 - 17, 2021
         company: Skoltech University, Moscow
+        link: https://drive.google.com/file/d/1LCQ3XeH0ECppGeoAlEFjlaTTM2USiFxG/view
         details: |
           Together with profi.ru web portal. Built Machine Learning model to  
           recognize frauds on web sites. Special prize winner

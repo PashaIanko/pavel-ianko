@@ -4,8 +4,7 @@
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
       <i class="fas fa-circle fa-stack-2x"></i>
-      <i class="fa-sharp fa-solid fa-route-highway"></i>
-      <i class="fas fa-briefcase fa-stack-1x fa-inverse"></i>
+      <i class="fas fa-user-circle fa-stack-1x fa-inverse"></i>
     </span>
     {{ hackathons.title }}
   </h2>
@@ -15,8 +14,28 @@
 
     <div class="meta">
 
+      <span class="project-title">
+        {% if project.link %}
+        <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
+        {% else %}
+        {{ project.title }}
+        {% endif %}
+      </span>
+
       <div class="upper-row">
-        <h3 class="job-title">{{ hackathon.role }}</h3>
+
+        <span class="hackathon-title">
+          {% if hackathon.link %}
+          <a href="{{ hackathon.link }}" target="_blank">
+            <h3 class="job-title">{{ hackathon.role }}</h3>
+          </a>
+          {% else %}
+          <h3 class="job-title">{{ hackathon.role }}</h3>
+          {% endif %}
+        </span>
+        <!-- <h3 class="job-title">{{ hackathon.role }}</h3> -->
+
+
         <div class="time">{{ hackathon.time }}</div>
       </div><!--//upper-row-->
 
