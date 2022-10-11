@@ -92,45 +92,124 @@ education:
             
       
 experiences:
-    title: Experiences
+    title: Work experience
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: AI Specialist
+        time: October 2022 - Present
+        company: Unox S.p.A., Italy
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          I work as a machine learning engineer, to develop object detection system.
+          Key responsibilities:
+            - Dataset preparation
+            - Selection of neural network architectures
+            - Training, evaluating and deploying the models
+      - role: Research assistant
+        time: 2017 - 2021
+        company: Kutateladze Institute of Thermophysics
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          I worked as a research associate in the laboratory of microfluidics,
+          in the Siberian Branch of Russian Academy of Sciences. My responsibilities
+          embraced:
+            - Writing research papers
+            - Implementing software for the dynamic flowrate control
+            - Experimental work
+            - Presenting results at conferences
+
+internships:
+    title: Internship experience
+    info:
+      - role: Machine vision developer
+        time: July 2022 - September 2022
+        company: Unox S.p.A., Italy
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          I work as a machine learning engineer, to develop object detection system.
+          Key responsibilities:
+            - Dataset preparation
+            - Selection of neural network architectures
+            - Training, evaluating and deploying the models
+      - role: Software developer
+        time: June 2019 - August 2019
+        company: National Tsing Hua University, Taiwan
+        details: |
+          College of engineering, laboratory of Flexible Printronics 
+          Programmed a software application for image processing and  
+          assessing pattern irregularities for flexible printronics
+
+hackathons:
+    title: Hackathons experience
+    info:
+      - role: Unox hackathon
+        time: May 28, 2022
+        company: Unox S.p.A., Italy
+        details: |
+          Scored 2nd out of 4 participated teams. 24-hours team hackathon with 
+          several tasks:
+          - Building predictive models for the cooking state of the food
+            and internal temperature
+          - Designing the structure of the database, for collecting data from
+            customers
+
+      - role: Business game 2022
+        time: March 22, 2022
+        company: University of Padua, Italy
+        details: |
+          Hackathon, devoted to building a regression model, to forecast the 
+          engagement of users, based on their Twitter metadata.
+          Scored 10th out of 40 participants.
+          
+      - role: Skoltech university hackathon
+        time: January 15 - 17, 2021
+        company: Skoltech University, Moscow
+        details: |
+          Together with profi.ru web portal. Built Machine Learning model to  
+          recognize frauds on web sites. Special prize winner
+
+
+patents_and_diplomas:
+    title: Patents and diplomas
+    intro:
+    assignments:
+      - title: Markovich  D.M., Ianko P.E.,  Skrypkin  S.G., Tsoy M.A., Kravtsova  A.Y. Software  for the  automation of flowrate control for cavitation stand
+        link: https://drive.google.com/file/d/1aWx4MiUURTH3V3VC7Z7XS6n4IgGAuRKQ/view
+        tagline: 
+
+      - title: 57th International Scientific Student Conference, 1st degree diploma
+        link: https://drive.google.com/file/d/1eHhnIJhuvSaEtd0IHLSUhfPU64EjEgdl/view?usp=sharing
+        tagline:
+
+      - title: 56th International Scientific Student Conference, 3rd degree diploma
+        link: https://drive.google.com/file/d/14aJZC00AQhOKfGLU1vNnPhyjyTOgxJaT/view
+        tagline:
+
+      - title: Workshop on panoramic methods for the flow diagnostics 
+        link: https://drive.google.com/file/d/13qlbqwgQbMW2iyeW4t6dpeLwVtfDWPJn/view
+        tagline:
+
+      - title: 28th International Young Physicists' Tournament, silver prize
+        link: https://drive.google.com/file/d/1MilZq4a95eGcRhGSnv1RT84l5tAToGT6/view
+        tagline:
+
+      - title: 27th International Young Physicists' Tournament, silver prize
+        link: https://drive.google.com/file/d/1Z4nEx2mmKdi7geEeyffL2gNFMQ0EY3t1/view
+        tagline:
+
+scholarships:
+    title: Scholarships
+    intro:
+    assignments:
+      - title: Excellence scholarship by the University of Padua (16000 EUR)
+        link: https://drive.google.com/file/d/15VWwAY4G-mU3IR_erzbLanWGm-BLeF5L/view?usp=sharing
+        tagline: 
+      - title: Two years fee-waiver from the University of Padua (~5000 EUR)
+        link: https://drive.google.com/file/d/10KDvwYGIaOAsP8xztGyM6vJ7ptLSg6dH/view?usp=sharing
+        tagline: 
+      - title: Global engineer leadership scholarship by the National Tsing Hua University (15000 NTD)
+        link: https://drive.google.com/file/d/1eiGQVs7xpPsZsN7OxZbLwKOCRVGZXi_p/view?usp=sharing
+        tagline:
+      - title: DAAD scholarship for MSc students (achieved, but voluntarily declined)
+        link: 
+        tagline: 
+
 projects:
     title: Projects
     intro: >
@@ -161,24 +240,87 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Investigation of the mixing in the T-micromixers at the different inlet flowrate relations 
+        link: https://drive.google.com/file/d/1Yfzou_QJMEciWvENZ2h_y1qCHqAJSWh4/view
+        authors: Aleksandra Yu. Kravtsova, Pavel E. Ianko, Margarita V. Kashkarova, Arthur V. Bilsky, Igor V. Naumov. 
+        conference: Interfacial Phenomena and Heat Transfer
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Estimation of the flows mixing efficiency inside T-micromixer with an external perturbation for low Reynolds numbers 
+        link: https://drive.google.com/file/d/1b0x02XG3HiuOkYDnaEoX2RI2Dz9ZPZ5M/view
+        authors: Kravtsova A. Yu., Ianko P. E., Kashkarova M. V., Bilsky A. V.
+        conference: Journal of Physic, Conference Series
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Efficient  and  improved qualification  method  for  patterns  with  irregular  edges  in  printed  electronics 
+        link: https://drive.google.com/file/d/1ERqaOnnVgz7GX7-7LEu_FUdf5j8ZyTz3/view
+        authors: Ting-Jeng Liu,  Shao-Min Hsu, Meng-JhuWu, Pavel  Ianko,  Cheng-Yao Lo.
+        conference: Journal of Micromechanics and Microengineering
+
+      - title: Investigation of the perturbation flow in a T-microchannel using the LIF technique 
+        link: https://drive.google.com/file/d/1Wo_4jzP-wRnAcJMqovhNxtXytAyZMXWT/view
+        authors: Kravtsova A. Yu., Ianko P.E., Kashkarova M. V., Bilsky A. V.
+        conference: Journal of visualization
+
+      - title: Influence of External Periodic Perturbation on the Flow in T-Microchannel
+        link: https://drive.google.com/file/d/11fbO4JVU5sL7BNfRh6gFl-j0-SNNa-iB/view
+        authors: Kravtsova A.Yu., Ianko P.E., Meashalkin Yu.E., Bilsky A.V. 
+        conference: AIP conference proceedings 2018
+
+conference_papers:
+    title: Conference papers
+    intro: |
+    papers:
+      - authors: P.E. Ianko, A.Yu. Kravtsova.
+        title: Experimental  Investigation  of  the  fluid  flow  structure  in  T-type micromixers  for  varied  inlet  flowrates  ratio. 
+        conference: International conference on the methods of aerophysical research, November 1-7, 2020
+        link: https://drive.google.com/file/d/18Cz86VqVsP18AwB5UGyeeQU9JIyAZBEh/view?usp=sharing
+      
+      - authors: Kravtsova  A.Yu.,  Kashkarova  M.V.,  Ianko  P.E.,  Bilsky  A.V.,  Kravtsov  Yu.V.
+        title:  Influence  of  the  inlet flowrates ratio on the fluid mixing inside T-type micromixer for low Reynolds numbers 
+        conference: 36th Siberian Thermophysics Seminar, 5-7 October 2020
+        link: https://drive.google.com/file/d/1bVlZFibQbSEVDKkCBLSPDOwe2Q1JOz8y/view?usp=sharing
+      
+      - authors: Kravtsova A.Yu., Kashkarova M.V., Ianko P.E.,  Bilsky A.V., Kravtsov Yu.V.
+        title: Special features of the fluid flow inside a T-type element for low Reynolds numbers and varied flowrate ratios
+        conference: V Scientific conference and School for Young Scientists, September 13-20, 2020
+        link: https://drive.google.com/file/d/1mR9iGmDEHPDarHDoUUgZuxSvTqQmuwtC/view?usp=sharing
+
+      - authors: P.E. Ianko, J. Liu.
+        title: Algorithm for printed microcircuitry validation in printed electronics
+        conference: Proceedings of  the  58 th   International  Scientific  Student  Conference, Novosibirsk, 10-13 April,  2020,  Section  of Information technology
+        link: https://drive.google.com/file/d/1kA43k30QBGE2_0rI49wze9kNOvTj4yCR/view?usp=sharing
+
+      - authors: Kravtsova  Aleksandra,  Ianko  Pavel,  Kashkarova  Margarita,  Bilsky  Artur.
+        title:  Investigation  of  the  Mixing Efficiency  and  the  Diffusion  in  the  T  micromixers  at  the  Different  Relation  of  the  Inlet Flowrates 
+        conference: International Conference on Engineering, Science and Industrial Applications (ICESI 2019), Japan, Tokyo, 22-24 August, 2019
+        link: https://drive.google.com/file/d/184SpnP0zvtZcsQsSAUCuKcw1DJm4nQ97/view?usp=sharing
+
+      - authors: Kravtsova  A.Yu.,  Ianko  P.E.,  Kashkarova  M.V.,  Bilsky  A.V.
+        title: Influence  of  the  periodical  external perturbation on the fluid flow in a micron-sized channel
+        conference: 35 th  Siberian Thermophysics Seminar, Russia, Novosibirsk, 27-29 August, 2019
+        link: https://drive.google.com/file/d/1_yXPx5EeW0CxwDrG9ZfmswmLvQ6al8Xv/view?usp=sharing
+
+      - authors: Ianko P.E.
+        title: Experimental Investigation of the fluid flow inside a T-mixer for different ratios of the inlet Reynolds numbers
+        conference: 57 th  International Scientific Student Conference, Novosibirsk, 14-19 April, 2019, Section of Continuous Media Physics
+        link: https://drive.google.com/file/d/1RNmM2dgJwJf7BQoLDRPXMN1W2Z0mem56/view?usp=sharing
+
+      - authors: Ianko P.E.,  Meshalkin  Yu.E.
+        title: Detalization  of  the  perturbed  microflow  flow  structure  inside  a T-microchannel 
+        conference:  25 th Scientific  Conference  for  Student  Physicists, Crimea, Sevastopol, 19-26 April, 2019
+        link: https://drive.google.com/file/d/1pExLTCajfRGBoiyQE7rFKt8hsJQllfIG/view?usp=sharing
+
+      - authors: Kravtsova A.Yu., Ianko P.E., Meshalkin Yu.E., Bilsky A.V.
+        title: Influence of External Periodic Perturbation on the  Flow  in  T-Microchannel
+        conference: 19 th   International  Conference  on  Methods  of Aerophysical Research (ICMAR), Russia, Novosibirsk, 13-19 August, 2018
+        link: https://drive.google.com/file/d/1Wdp1YsM9xLLzH8oV7I2x9dGY-Q00qpj5/view?usp=sharing
+
+      - authors: Ianko P.E.
+        title: Influence of the outer actuation on the flow inside a T-type jet microchannel 
+        conference: 56 th   International  Scientific  Student  Conference,  Novosibirsk,  22-27  April,  2018,  Section  of Continuous Media Physics
+        link: https://drive.google.com/file/d/1CDVL5-Yx_Vq60f1Q-7_LgKSTnvzLrCqh/view?usp=sharing
+        
+
 
 skills:
     title: Skills &amp; Proficiency

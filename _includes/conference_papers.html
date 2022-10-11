@@ -1,0 +1,32 @@
+{% assign conference_papers = site.data.data.conference_papers %}
+{% if conference_papers %}
+<section class="section conference_papers-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-file-alt fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ conference_papers.title }}
+  </h2>
+
+  {% if conference_papers.intro %}
+  <div class="intro">
+    {{ conference_papers.intro | markdownify }}
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for conference_paper in conference_papers.papers %}
+  <div class="item">
+    {% if conference_paper.link %}
+      <li><a href="{{ conference_paper.link }}">{{ conference_paper.title }}</a></li>
+    {% else %}
+      <li>{{ conference_paper.title }}</li>
+    {% endif %}
+    <div class="conference_paper-authors">{{ conference_paper.authors }}</div>
+    <div class="conference_paper-conference">{{ conference_paper.conference }}</div>
+  </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
