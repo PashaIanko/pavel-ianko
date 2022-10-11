@@ -28,7 +28,7 @@ sidebar:
     stack-overflow: 17741808/pavel  # Number/Username, e.g. 123456/alandoe
     # codewars:
     # goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://disk.yandex.ru/i/HgdMwg07KC5QXw  # http://www.africau.edu/images/default/sample.pdf
+    pdf: https://drive.google.com/file/d/1gSNqRMKMl7XuvBbMPcYvxJSJ10nB_5oW/view?usp=sharing
 
     languages:
       title: Languages
@@ -36,59 +36,61 @@ sidebar:
         - idiom: Russian
           level: Native
 
-        - idiom: 
-          level: English (C1, IELTS 8.0)
-          link: https://disk.yandex.ru/i/HgdMwg07KC5QXw
+        - level: English (C1, IELTS 8.0)
+          link: https://drive.google.com/file/d/1B8wJ3gYGZmX4dMt63K-GaK2HqJERdNOT/view?usp=sharing
 
-        - idiom: Italian
-          level: B2
+        - level: Italian (B1)
+          link: https://drive.google.com/file/d/1a6DSDc6VOR4BpM8AceFKkWhnaOEA8rNj/view?usp=sharing
 
-    interests:
-      title: Interests
-      info:
-        - item: Climbingg
-          link:
+    # interests:
+    #   title: Interests
+    #   info:
+    #     - item: Climbingg
+    #       link:
 
-        - item: Snowboarding
-          link:
+    #     - item: Snowboarding
+    #       link:
 
-        - item: Cooking
-          link: https://github.com/jekyll/jekyll/issues/8523
+    #     - item: Cooking
+    #       link: https://github.com/jekyll/jekyll/issues/8523
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      My Bachelor's degree was dedicated to Physics and automation in research. Currently,
+      I pursue a Master's degree in Data Science at the University of Padua in Italy
+      (top 200 world universities)
+
 education:
     title: Education
     info:
+      - degree: MSc in Data Science
+        university: University of Padua
+        time: 2021 - 2023
+        details: |
+          - GPA: 29.4 (30 is max)
+          - Follow a track of Machine Learning for Intelligent systems,
+          - Key courses:
+            - Machine and deep learning
+            - Statistical learning
+            - Vision and cognitive services
+            - Optimization for Data Science
+
+
       - degree: BSc in Automatization in Research
         university: Novosibirsk State University
         time: 2017 - 2021
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: MSc in Data Science
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          - GPA: 4.92 (5.0 is max)
+          - Entered in the top 7% students rank
+          - Key courses:
+            - Computational physics
+            - Data & signal processing
+            - Discrete mathematics
+            - Object-oriented programming
+            - Mathematical analysis, linear algebra
+            
+      
 experiences:
     title: Experiences
     info:
