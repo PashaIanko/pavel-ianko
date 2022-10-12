@@ -203,23 +203,6 @@ patents_and_diplomas:
         link: https://drive.google.com/file/d/1Z4nEx2mmKdi7geEeyffL2gNFMQ0EY3t1/view
         tagline:
 
-scholarships:
-    title: Scholarships
-    intro:
-    assignments:
-      - title: Excellence scholarship by the University of Padua (16000 EUR)
-        link: https://drive.google.com/file/d/15VWwAY4G-mU3IR_erzbLanWGm-BLeF5L/view?usp=sharing
-        tagline: 
-      - title: Two years fee-waiver from the University of Padua (~5000 EUR)
-        link: https://drive.google.com/file/d/10KDvwYGIaOAsP8xztGyM6vJ7ptLSg6dH/view?usp=sharing
-        tagline: 
-      - title: Global engineer leadership scholarship by the National Tsing Hua University (15000 NTD)
-        link: https://drive.google.com/file/d/1eiGQVs7xpPsZsN7OxZbLwKOCRVGZXi_p/view?usp=sharing
-        tagline:
-      - title: DAAD scholarship for MSc students (achieved, but voluntarily declined)
-        link: 
-        tagline: 
-
 # projects:
 #     title: Projects
 #     intro: >
@@ -246,6 +229,24 @@ scholarships:
 #       - title: Delta
 #         link: "#"
 #         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+scholarships:
+    title: Scholarships
+    intro: |
+    scholarships:
+      - title: Excellence scholarship by the University of Padua (16000 EUR)
+        link: https://drive.google.com/file/d/15VWwAY4G-mU3IR_erzbLanWGm-BLeF5L/view?usp=sharing
+        tagline: 
+      - title: Two years fee-waiver from the University of Padua (~5000 EUR)
+        link: https://drive.google.com/file/d/10KDvwYGIaOAsP8xztGyM6vJ7ptLSg6dH/view?usp=sharing
+        tagline: 
+      - title: Global engineer leadership scholarship by the National Tsing Hua University (15000 NTD)
+        link: https://drive.google.com/file/d/1eiGQVs7xpPsZsN7OxZbLwKOCRVGZXi_p/view?usp=sharing
+        tagline:
+      - title: DAAD scholarship for MSc students (achieved, but voluntarily declined)
+        link: 
+        tagline: 
+
 
 publications:
     title: Publications
