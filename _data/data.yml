@@ -177,7 +177,7 @@ hackathons:
 
 patents_and_diplomas:
     title: Patents and diplomas
-    intro:
+    intro: |
     assignments:
       - title: Markovich  D.M., Ianko P.E.,  Skrypkin  S.G., Tsoy M.A., Kravtsova  A.Y. Software  for the  automation of flowrate control for cavitation stand
         link: https://drive.google.com/file/d/1aWx4MiUURTH3V3VC7Z7XS6n4IgGAuRKQ/view

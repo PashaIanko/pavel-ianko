@@ -5,33 +5,25 @@
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
       <i class="fas fa-circle fa-stack-2x"></i>
-      <i class="fas fa-archive fa-stack-1x fa-inverse"></i>
+      <i class="fas fa-file-alt fa-stack-1x fa-inverse"></i>
     </span>
     {{ patents_and_diplomas.title }}
   </h2>
 
   {% if patents_and_diplomas.intro %}
   <div class="intro">
-      <p>{{ patents_and_diplomas.intro }}</p>
+    {{ patents_and_diplomas.intro | markdownify }}
   </div><!--//intro-->
   {% endif %}
 
   {% for certificate in patents_and_diplomas.assignments %}
-    <div class="item">
-
-      <span class="certificate-title">
-        {% if certificate.link %}
-        <a href="{{ certificate.link }}" target="_blank">{{ certificate.title }}</a>
-        {% else %}
-        {{ certificate.title }}
-        {% endif %}
-      </span>
-
-      {% if certificate.tagline %}
-      - <span class="certificate-tagline">{{ certificate.tagline }}</span>
-      {% endif %}
-
-    </div><!--//item-->
+  <div class="item">
+    {% if certificate.link %}
+      <li><a href="{{ certificate.link }}">{{ certificate.title }}</a></li>
+    {% else %}
+      <li>{{ certificate.title }}</li>
+    {% endif %}
+  </div><!--//item-->
   {% endfor %}
 
 </section><!--//section-->
