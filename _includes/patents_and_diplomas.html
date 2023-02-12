@@ -19,7 +19,7 @@
   {% for certificate in patents_and_diplomas.assignments %}
   <div class="item">
     {% if certificate.link %}
-      <li><a href="{{ certificate.link }}">{{ certificate.title }}</a></li>
+      <li><a target="_blank" href="{{ certificate.link }}">{{ certificate.title }}</a></li>
     {% else %}
       <li>{{ certificate.title }}</li>
     {% endif %}

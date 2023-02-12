@@ -19,7 +19,7 @@
   {% for scholarship in scholarships.scholarships %}
   <div class="item">
     {% if scholarship.link %}
-      <li><a href="{{ scholarship.link }}">{{ scholarship.title }}</a></li>
+      <li><a target="_blank" href="{{ scholarship.link }}">{{ scholarship.title }}</a></li>
     {% else %}
       <li>{{ scholarship.title }}</li>
     {% endif %}

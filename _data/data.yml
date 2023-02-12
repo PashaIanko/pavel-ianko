@@ -280,6 +280,26 @@ publications:
         authors: Kravtsova A.Yu., Ianko P.E., Meashalkin Yu.E., Bilsky A.V. 
         conference: AIP conference proceedings 2018
 
+reference_letters:
+    title: References and recommendations
+    intro: |
+    letters:
+      - title: A.Yu. Kravtsova, Ph.D., Kutateladze Institute of Thermophysics SB RAS
+        authors: Research supervisor (4 years of cooperation), Bachelor's thesis supervisor
+        link: https://drive.google.com/file/d/1CdzLLpC-0VtyO_A98DHXQo2Q_yuAfJqg/view?usp=share_link
+      - title: K.F. Lysakov, Ph.D., Institute of Automation and Electrometry SB RAS
+        authors: Dean of the Department of Automation (3 years of cooperation)
+        link: https://drive.google.com/file/d/10Amq8ChVqW-cV28GtHEFUHooGpp92B_l/view?usp=share_link
+      - title: Cheng Yao Lo, Ph.D., Head of laboratory of Flexible Printronics, National Tsing Hua University
+        authors: Internship supervisor
+        link: https://drive.google.com/file/d/1YHxF5d2MvUOC_fl1MF0tV9WoBBrySbW6/view?usp=share_link
+      - title: A.E. Bondar, Ph.D., Novosibirsk State University
+        authors: Dean of the Physics Department
+        link: https://drive.google.com/file/d/138S3o021T6KtwtYHrd5WYhiDuohAosbc/view?usp=share_link
+      - title: A.A. Simonov, Ph.D., Novosibirsk State University
+        authors: Professor at Novosibirsk State University, laboratory course on electomagnetism (6 months of cooperation)
+        link: https://drive.google.com/file/d/1BLSUHq1Yq1X8_0OPoQWqp3ckTrhew7mS/view?usp=share_link
+
 conference_papers:
     title: Conference papers
     intro: |
@@ -333,7 +353,6 @@ conference_papers:
         title: Influence of the outer actuation on the flow inside a T-type jet microchannel 
         conference: 56 th   International  Scientific  Student  Conference,  Novosibirsk,  22-27  April,  2018,  Section  of Continuous Media Physics
         link: https://drive.google.com/file/d/1CDVL5-Yx_Vq60f1Q-7_LgKSTnvzLrCqh/view?usp=sharing
-        
 
 
 # skills:

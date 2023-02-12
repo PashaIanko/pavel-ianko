@@ -1,0 +1,32 @@
+{% assign reference_letters = site.data.data.reference_letters %}
+{% if reference_letters %}
+<section class="section reference_letters-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-award fa-stack-2x"></i>
+      <!-- <i class="fas fa-file-alt fa-stack-1x fa-inverse"></i> -->
+    </span>
+    {{ reference_letters.title }}
+  </h2>
+
+  {% if reference_letters.intro %}
+  <div class="intro">
+    {{ reference_letters.intro | markdownify }}
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for reference_letter in reference_letters.letters %}
+  <div class="item">
+    {% if reference_letter.link %}
+      <li><a target="_blank" href="{{ reference_letter.link }}">{{ reference_letter.title }}</a></li>
+    {% else %}
+      <li>{{ reference_letter.title }}</li>
+    {% endif %}
+    <div class="reference_letter-authors">{{ reference_letter.authors}}</div>
+    <div class="reference_letter-conference">{{ reference_letter.conference }}</div>
+  </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
