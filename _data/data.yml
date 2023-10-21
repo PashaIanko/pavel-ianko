@@ -58,7 +58,7 @@ career-profile:
   summary: |
     I'm an Artificial Intelligence Specialist at UNOX S.p.A, Italy. My role spans software, hardware, and machine learning, with a touch of UI design. I simplify technicalities, presenting results clearly, with visual data analysis insights.
 
-    At UNOX, I am responsible for an Optic.Cooking technology [(link)](https://www.linkedin.com/feed/update/urn:li:activity:7093171586744164352/) - automatic food recognition system for ovens.
+    At UNOX, I am responsible for an Optic.Cooking technology [(video link)](https://www.linkedin.com/feed/update/urn:li:activity:7121210309662367744/) - automatic food recognition for ovens.
 
     As a former Research Associate at the Institute of Thermophysics, I cultivated an experimenter mindset and clear communication skills. Since 2014, I've been learning a confident public presentation:
 
@@ -113,6 +113,7 @@ experiences:
       company: Unox S.p.A., Italy
       details: |
         Key responsibilities:
+          - Optic.Cooking technology for food recognition [(link)](https://www.linkedin.com/feed/update/urn:li:activity:7121210309662367744/)
           - Dataset preparation
           - Selection of neural network architectures
           - Preparing pipelines for data processing and model training
@@ -312,9 +313,14 @@ publications:
       conference: AIP conference proceedings 2018
 
 conference_papers:
-  title: Conference papers
+  title: Conferences
   intro: |
   papers:
+    - authors: UNOX AI team (Marco Pattarello, Davide Checchinato, Pavel Ianko)
+      title: Presentation of Optic.Cooking technology for professional ovens.
+      conference: HOST Milano 2023, October 13-17, 2023
+      link: https://www.linkedin.com/feed/update/urn:li:activity:7121210309662367744/
+
     - authors: P.E. Ianko, A.Yu. Kravtsova.
       title: Experimental  Investigation  of  the  fluid  flow  structure  in  T-type micromixers  for  varied  inlet  flowrates  ratio
       conference: International conference on the methods of aerophysical research, November 1-7, 2020
