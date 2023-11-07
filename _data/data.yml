@@ -41,17 +41,11 @@ sidebar:
       - level: Italian (B1)
         link: https://drive.google.com/file/d/1a6DSDc6VOR4BpM8AceFKkWhnaOEA8rNj/view?usp=sharing
 
-  # interests:
-  #   title: Interests
-  #   info:
-  #     - item: Climbingg
-  #       link:
-
-  #     - item: Snowboarding
-  #       link:
-
-  #     - item: Cooking
-  #       link: https://github.com/jekyll/jekyll/issues/8523
+  interests:
+    title: Miscellaneous
+    info:
+      - item: European driving license (type B)
+        link:
 
 career-profile:
   title: Career Profile
@@ -212,7 +206,7 @@ hackathons:
       link: https://drive.google.com/file/d/1LCQ3XeH0ECppGeoAlEFjlaTTM2USiFxG/view
       details: |
         Together with profi.ru web portal. Built Machine Learning model to  
-        recognize frauds on web sites. Special prize winner
+        recognize frauds on web sites. Special prize winner.
 
 patents_and_diplomas:
   title: Patents and diplomas
